@@ -6,6 +6,8 @@ Overview
 
 User reported consistently weak Wi-Fi signal strength despite close proximity to an unobstructed router. Symptoms included slow browsing, pages failing to load, and delayed message delivery through instant messaging services.
 
+Time to Resolution ~10 minutes
+
 ---
 
 Environment
