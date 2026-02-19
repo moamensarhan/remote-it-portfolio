@@ -73,4 +73,8 @@ Browsing performance returned to expected baseline levels, and pages loaded norm
 
 No further connectivity issues observed
 
+---
+
+Advisory note
+
 Advised enabling of VPN only when needed, and subscription to paid-tier for improved performance through the availability of closer servers
