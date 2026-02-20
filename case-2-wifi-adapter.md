@@ -51,6 +51,7 @@ Given that the issue was isolated to this specific adapter and drivers were curr
 ---
 
 Root Cause
+
 Underperforming Wi-Fi adapter unable to maintain stable signal strength despite close proximity to router
 
 Resolution
