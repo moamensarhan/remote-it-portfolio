@@ -51,7 +51,8 @@ Resource Monitor showed sustained network activity from ProtonVPN, fluctuating b
 
 Further inspection confirmed the VPN had auto-connected to a geographically distant server under free-tier restrictions
 
-<img width="1127" height="148" alt="vpn-bandwidth-usage" src="https://github.com/user-attachments/assets/34b749f6-85ce-47d5-a427-79267c19f2bf" />
+<img width="1127" height="148" alt="vpn-bandwidth-usage" src="https://github.com/user-attachments/assets/007c7026-b352-4eb5-a08f-0cc1c39fc84b" />
+
 
 ---
 
