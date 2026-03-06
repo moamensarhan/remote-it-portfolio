@@ -54,7 +54,11 @@ Root Cause
 
 Underperforming Wi-Fi adapter unable to maintain stable signal strength despite close proximity to router
 
+---
+
 Resolution
+
+---
 
 Discussed options with user: replace adapter with a newer model, or switch to a wired Ethernet connection
 
