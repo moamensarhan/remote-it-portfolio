@@ -58,8 +58,6 @@ Underperforming Wi-Fi adapter unable to maintain stable signal strength despite 
 
 Resolution
 
----
-
 Discussed options with user: replace adapter with a newer model, or switch to a wired Ethernet connection
 
 User prioritized stability over mobility, and Ethernet was chosen due to the nature of their work requiring consistent, uninterrupted connectivity
