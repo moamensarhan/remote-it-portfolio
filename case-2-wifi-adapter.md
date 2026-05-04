@@ -4,7 +4,7 @@ Case Study: Weak Wi-Fi Signal Caused by Underperforming Wi-Fi Adapter
 
 Overview
 
-User reported consistently weak Wi-Fi signal strength despite close proximity to an unobstructed router. Symptoms included slow browsing, pages failing to load, and delayed message delivery through instant messaging services
+User reported weak Wi-Fi signal and slow browsing despite being close to the router. Other devices on the same network were unaffected.
 
 Time to Resolution ~10 minutes
 
@@ -12,72 +12,55 @@ Time to Resolution ~10 minutes
 
 Environment
 
-OS: Windows 10
+Windows 10 desktop using a USB Wi-Fi adapter (TP-Link, Realtek chipset)
 
-Connection: Wi-Fi (~33% signal strength, later converted to Ethernet)
-
-Wi-Fi Adapter: TP-Link (Realtek chipset)
-
-Context: Personal desktop workstation within close distance of router
 
 ---
 
 Reported Symptoms
 
-Slow browsing
+Low signal strength (~33%)
 
-Slow message delivery
-
-Frequent disconnections
+Slow browsing and message delays
 
 ---
 
 Initial Assessment
 
-Confirmed router was close and unobstructed
-
-Verified weak signal was isolated to the user's PC only (other devices on same network functioned normally)
+Confirmed issue was isolated to the PC, as other devices on the same network performed normally. Verified weak signal despite close proximity to router.
 
 ---
 
 Investigation
 
-Checked Device Manager for driver updates. Adapter drivers were already up to date, with no newer versions available
-
-Identified the adapter as an older TP-Link model (Realtek-based). Further research indicated this model was known for limited range and stability, especially in environments with mild interference
-
-Given that the issue was isolated to this specific adapter and drivers were current, the hardware itself was identified as the bottleneck
-
----
-
-Root Cause
-
-Underperforming Wi-Fi adapter unable to maintain stable signal strength despite close proximity to router
+Restart/refresh steps did not resolve issue. Identified Wi-Fi adapter model via Device Manager and assessed it as a low-end chipset known for limited range and stability.
 
 ---
 
 Resolution
 
-Discussed options with user: replace adapter with a newer model, or switch to a wired Ethernet connection
-
-User prioritized stability over mobility, and Ethernet was chosen due to the nature of their work requiring consistent, uninterrupted connectivity
-
-A LAN cable was connected directly to the router
+Tested alternative connection using Ethernet. User confirmed Ethernet was available and acceptable.
 
 ---
 
 Verification
 
-Browsing returned to expected speeds
+Immediate improvement observed:
 
-Messages delivered instantly
+stable connection restored
 
-Pages loaded without delay
+normal browsing speed
 
-No further disconnections reported
+no further disconnections
 
 ---
 
-Advisory Note
+Root Cause
 
-Recommended purchasing a newer Wi-Fi adapter if physical relocation or other circumstances make Ethernet impractical in the future
+Underperforming Wi-Fi adapter unable to maintain stable wireless connection despite optimal physical conditions.
+
+---
+
+Outcome
+
+Issue resolved via Ethernet fallback. Advised user that replacing Wi-Fi adapter would be required if wireless connectivity is needed in future.
