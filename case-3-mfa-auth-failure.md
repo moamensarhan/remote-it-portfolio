@@ -1,4 +1,4 @@
-Case Study: Multifactor Authentication Failure
+Case Study: MFA Authentication Failure (Account Access Issue)
 
 ---
 
