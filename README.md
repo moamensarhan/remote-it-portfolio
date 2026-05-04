@@ -6,4 +6,4 @@ A collection of documented troubleshooting cases demonstrating diagnostic method
 
 - [Case 1: Network Slowdown Caused by VPN Routing](case-1-vpn-slowdown.md)
 - [Case 2: Weak Wi-Fi Signal Caused by Underperforming Wi-Fi Adapter](case-2-wifi-adapter.md)
-- [Case 3: Multifactor Authentication Delivery Issue](case-3-mfa-auth-failure.md)
+- [Case 3: Multifactor Authentication Failure](case-3-mfa-auth-failure.md)
