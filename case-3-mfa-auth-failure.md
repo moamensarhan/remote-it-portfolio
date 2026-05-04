@@ -1,4 +1,4 @@
-Case Study: Multifactor Authentication Delivery Issue
+Case Study: Multifactor Authentication Failure
 
 ---
 
