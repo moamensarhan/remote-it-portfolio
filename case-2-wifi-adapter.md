@@ -47,11 +47,11 @@ Verification
 
 Immediate improvement observed:
 
-stable connection restored
+Stable connection restored
 
-normal browsing speed
+Normal browsing speed
 
-no further disconnections
+No further disconnections
 
 ---
 
