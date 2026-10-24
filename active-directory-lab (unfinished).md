@@ -41,4 +41,10 @@ After clicking "Next >", you will be shown a final confirmation pop-up window. I
 
 You have now created a new user account within your domain.
 
+<h2>How do you reset a user's password in Active Directory?</h2>
+
+First, find the user's account in the appropriate Organizational Unit (OU). Right-click the account and select "Reset Password...". Enter and confirm the new password, then select "User must change password at next logon" if required by your organization's policy. Click "OK" to complete the reset. Active Directory will display a confirmation message when the reset is successful.
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f288400a-953e-46cd-82d6-da34bfac566d" />
+
 
