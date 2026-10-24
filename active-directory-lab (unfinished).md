@@ -37,3 +37,12 @@ The same pop-up window also allows the configuration of four check-box settings:
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6f83587c-eae7-4ecd-8dee-18811751f924" />
 
+
+After clicking "Next >", you will be shown a final confirmation pop-up window. It will include the user's full name, their user logon name, and the checkbox settings you enabled. Verify the information, then click "Finish".
+
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/124a3870-bbb3-4613-ad52-2d060621c5fc" />
+
+You have now created a new user account within your domain.
+
+
