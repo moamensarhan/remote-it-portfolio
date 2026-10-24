@@ -47,4 +47,10 @@ First, find the user's account in the appropriate Organizational Unit (OU). Righ
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f288400a-953e-46cd-82d6-da34bfac566d" />
 
+<h2>How do you add a user to a group in Active Directory?</h2>
+
+Find the user's account and open "Properties". Click the "Member Of" tab, then click "Add...". Enter the group name, click "Check Names" to verify it, then click "OK". Check the "Member Of" tab to confirm the group appears.
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9c222ac9-dfc3-49c6-9f3c-20e4f732b25b" />
+
 
