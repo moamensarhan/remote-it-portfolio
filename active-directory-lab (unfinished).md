@@ -19,11 +19,7 @@ First, a location for a directory to create users must be designated, preferably
 
 <img width="450" height="400" alt="Screenshot 2026-10-24 154919" src="https://github.com/user-attachments/assets/e04893cf-df75-4a23-ba3d-71b7439531f6" /> <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/975e87b5-07d6-4dfc-adcd-0910f4d1eecc" />
 
-In the pop-up window, you will be able to set and confirm the user's password. Active Directory requires passwords to follow certain rules by default:
-
-- At least 8 characters
-- Must include uppercase and lowercase letters
-- Must include a number or symbol
+In the pop-up window, you will be able to set and confirm the user's password. The password may be required to follow certain rules depending on the organization's policy.
 
 The same pop-up window also allows the configuration of four check-box settings:
 
