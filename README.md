@@ -9,4 +9,4 @@ A collection of documented troubleshooting and walkthrough cases demonstrating d
 The following pages are explorations of corporate tools through hands-on exposure:
 
 - [Zendesk Exploration](zendesk-exploration.md)
-- [Active Directory Fundamentals](active-directory-lab.md)
+- [Active Directory Fundamentals](active-directory-fundamentals.md)
