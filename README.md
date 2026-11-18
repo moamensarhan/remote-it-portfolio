@@ -6,6 +6,7 @@ The following pages are explorations of corporate tools through hands-on exposur
 
 - [Zendesk Exploration](zendesk-exploration.md)
 - [Active Directory Fundamentals](active-directory-fundamentals.md)
+- [Microsoft Entra Fundamentals](microsoft-entra-fundamentals.md)
 
 The following cases are documentations of personally experienced issues and their resolution:
 
