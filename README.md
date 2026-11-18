@@ -4,7 +4,7 @@ A collection of documented troubleshooting and walkthrough cases demonstrating d
 
 The following pages are explorations of corporate tools through hands-on exposure:
 
-- [Zendesk Exploration](zendesk-exploration.md)
+- [Zendesk Fundamentals](zendesk-fundamentals.md)
 - [Active Directory Fundamentals](active-directory-fundamentals.md)
 - [Microsoft Entra Fundamentals](microsoft-entra-fundamentals.md)
 
