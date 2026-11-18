@@ -1,4 +1,4 @@
-<h1>Active Directory</h1>
+<h1>Active Directory Fundamentals</h1>
 
 <h2>Goal:</h2> Explore Active Directory fundamentals and acquire hands-on exposure. Serveracademy.com offers a free, browser-lab based simulation, making downloading a Virtual Machine with Microsoft Server installed unnecessary.
 
