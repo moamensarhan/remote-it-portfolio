@@ -1,3 +1,5 @@
+# Zendesk Fundamentals
+
 <h1>Goal:</h1> Acquire Zendesk hands-on exposure through the available free trial. A billing dispute will be simulated to encourage the exploration and learning of various features.
 
 <h2>What is Zendesk?</h2>
